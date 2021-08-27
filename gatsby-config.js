@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `RafaMagalhas Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rafael Magalhães dos Santos`,
+      summary: `De Franca-SP Brasil, amante de tecnologia e desenvolvimento de software. Sempre podemos aprender e evoluir mais!`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Um blog com fins didáticos, para entender o funcionamento do Gatsby e compartilhar algumas coisas.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `@rafamagalhas`,
     },
   },
   plugins: [
