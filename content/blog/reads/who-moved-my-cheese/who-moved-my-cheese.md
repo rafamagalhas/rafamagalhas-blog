@@ -51,4 +51,4 @@ Nós humanos, passamos por algumas questões internas, medos e dúvidas... o que
 
 A lição que esse livro nos deixa é, não contar que algo dure para sempre e estar aberto a mudanças, ter coragem de sair em busca do novo queijo.
 
-![who-moved-my-cheese](./../../../../src/images/who-moved-my-cheese.jpg)
+![who-moved-my-cheese](./../../../src/images/who-moved-my-cheese.jpg)
