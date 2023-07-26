@@ -11,8 +11,8 @@ A página de erro de whitelabel é gerada pelo Spring Boot como um mecanismo pad
 
 O detalhe que gerou essa mensagem na minha aplicação, foi o nome do pacote não estar seguindo o padrão dos demais, conforme imagem abaixo:
 
-![wrong-package-name](./../../../src/images/package-error.jpg)
+![wrong-package-name](./package-error.jpg)
 
 Após ajustar o nome do pacote, deixando-o em conformidade com os demais, como na imagem abaixo, a aplicação funcionou corretamente.
 
-![wrong-package-name](./../../../src/images/package-resolved.jpg)
+![wrong-package-name](./package-resolved.jpg)
