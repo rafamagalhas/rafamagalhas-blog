@@ -17,4 +17,4 @@ Após ajustar o nome do pacote, deixando-o em conformidade com os demais, como n
 
 ![wrong-package-name](./../../../../src/images/package-resolved.jpg)
 
-
+Testar após o ajuste.
