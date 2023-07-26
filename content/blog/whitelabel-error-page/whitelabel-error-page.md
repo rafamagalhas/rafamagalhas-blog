@@ -1,5 +1,5 @@
 ---
-title: Whitelabel Error Page?
+title: Whitelabel Error Page
 date: "2023-07-24T21:30:03.0300Z"
 description: "O que é, como resolver esse problema?"
 ---
@@ -11,8 +11,8 @@ A página de erro de whitelabel é gerada pelo Spring Boot como um mecanismo pad
 
 O detalhe que gerou essa mensagem na minha aplicação, foi o nome do pacote não estar seguindo o padrão dos demais, conforme imagem abaixo:
 
-![wrong-package-name](./../../../../src/images/package-error.jpg)
+![wrong-package-name](./../../../src/images/package-error.jpg)
 
 Após ajustar o nome do pacote, deixando-o em conformidade com os demais, como na imagem abaixo, a aplicação funcionou corretamente.
 
-![wrong-package-name](./../../../../src/images/package-resolved.jpg)
+![wrong-package-name](./../../../src/images/package-resolved.jpg)
